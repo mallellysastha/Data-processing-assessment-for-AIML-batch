@@ -1,0 +1,11 @@
+student_id,name,gender,math_score,science_score,attendance,exam_date
+101,Akhil,Male,82,76,88,2025-04-10
+102,Priya,Female,91,95,97,2025-04-12
+103,Rohan,Male,56,61,72,2025-04-15
+104,Sneha,Female,73,79,85,2025-04-18
+105,Vikram,Male,64,58,69,2025-04-20
+106,Keerthi,Female,87,90,93,2025-04-22
+107,Arjun,Male,49,52,60,2025-04-25
+108,Meghana,Female,96,98,99,2025-04-27
+109,Karthik,Male,71,68,74,2025-04-29
+110,Divya,Female,84,89,91,2025-05-01
